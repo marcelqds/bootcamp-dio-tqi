@@ -5,7 +5,8 @@
  - CSS
 
 ## Layout web
-![menu-hamg-web](https://user-images.githubusercontent.com/20728338/170144211-d9f77d62-1696-4a29-8f36-afffb58208ab.gif)
+![menu-hamburguer-web](https://user-images.githubusercontent.com/20728338/170144805-64010389-7351-4661-a302-d61b0d88cff4.gif)
+
 
 ## Layout Mobile
 ![menu-hamb](https://user-images.githubusercontent.com/20728338/170144249-eec9b015-203c-4ba7-9103-820465e79703.gif)
