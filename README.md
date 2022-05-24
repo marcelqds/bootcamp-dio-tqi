@@ -8,7 +8,7 @@ Neste repositório será armazenado os desafios/projetos práticos desenvolvidos
 </span>
 
 ## Progresso
-- [] Módulo I - Conteúdo de abertura
+- [ ] Módulo I - Conteúdo de abertura
     - [x] Boas-vindas ao TQI Fullstack Developer
     - [x] Aula inaugural- TQI Fullstack Developer
     - [x] Seja Protagonista Neste Bootcamp
