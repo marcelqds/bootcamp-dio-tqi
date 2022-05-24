@@ -26,4 +26,4 @@ Neste repositório será armazenado os desafios/projetos práticos desenvolvidos
  - [] Módulo VII - QA
 
  ## Desafios Projetos
- [Desafio HTML/CSS - Página com menu hamburguer e morphing menu com css transitions - em conjunto com a criadora do projeto](https://github.com/marcelqds/bootcamp-dio-tqi/html/site_desafio)
+ [Desafio HTML/CSS - Página com menu hamburguer e morphing menu com css transitions - em conjunto com a criadora do projeto](https://github.com/marcelqds/bootcamp-dio-tqi/tree/main/html/site_desafio)
